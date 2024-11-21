@@ -1,14 +1,10 @@
 [
   {
-    "name": "Libro ",
-    "price": 15
+    "name": "Computadora",
+    "price": 7500
   },
   {
-    "name": "Agua",
-    "price": 10
-  },
-  {
-    "name": "Lapiz",
-    "price": 5
+    "name": "Telefono",
+    "price": 16000
   }
 ]
